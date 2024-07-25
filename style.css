@@ -1,0 +1,25 @@
+html {
+	margin: auto;
+	height: 100%;
+	width: 100%;
+}
+
+header {
+	font-size: 24px;
+}
+
+.option {
+	width: 40%;
+	height: 50px;
+	margin: 2.5%;
+}
+
+.unit {
+	width: 80%;
+	height: 60px;
+	margin: 1%;
+}
+
+.sub {
+	font-size: 18px;
+}

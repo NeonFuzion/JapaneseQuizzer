@@ -1,0 +1,257 @@
+{
+	"unit": "Unit 11: Japanese Cooking",
+	"vocab": [
+			{
+					"kana": "つくりかた",
+					"kanji": "作り方",
+					"romaji": "",
+					"english": "how to make"
+			},
+			{
+					"kana": "すきやき",
+					"kanji": "",
+					"romaji": "",
+					"english": "sukiyaki"
+			},
+			{
+					"kana": "ぎゅうにく",
+					"kanji": "牛肉",
+					"romaji": "",
+					"english": "beef"
+			},
+			{
+					"kana": "ぶたにく",
+					"kanji": "豚肉",
+					"romaji": "",
+					"english": "pork"
+			},
+			{
+					"kana": "とりにく",
+					"kanji": "鳥肉",
+					"romaji": "",
+					"english": "chicken(meat)"
+			},
+			{
+					"kana": "たまご",
+					"kanji": "卵",
+					"romaji": "",
+					"english": "egg"
+			},
+			{
+					"kana": "やさい",
+					"kanji": "野菜",
+					"romaji": "",
+					"english": "vegetable"
+			},
+			{
+					"kana": "くだもの",
+					"kanji": "果物",
+					"romaji": "",
+					"english": "fruit"
+			},
+			{
+					"kana": "いちご",
+					"kanji": "苺",
+					"romaji": "",
+					"english": "strawberry"
+			},
+			{
+					"kana": "いとこんやく",
+					"kanji": "糸こんにゃく",
+					"romaji": "",
+					"english": "shredded konnyaku"
+			},
+			{
+					"kana": "だいどころ",
+					"kanji": "台所",
+					"romaji": "",
+					"english": "kitchen"
+			},
+			{
+					"kana": "なべ",
+					"kanji": "",
+					"romaji": "",
+					"english": "pan"
+			},
+			{
+					"kana": "あぶら",
+					"kanji": "",
+					"romaji": "",
+					"english": "oil"
+			},
+			{
+					"kana": "うすく",
+					"kanji": "",
+					"romaji": "",
+					"english": "thin"
+			},
+			{
+					"kana": "あつく",
+					"kanji": "厚く",
+					"romaji": "",
+					"english": "thick"
+			},
+			{
+					"kana": "はんぶんに",
+					"kanji": "半分に",
+					"romaji": "",
+					"english": "(in) half"
+			},
+			{
+					"kana": "きる",
+					"kanji": "切る",
+					"romaji": "",
+					"english": "to cut; slice [G1]"
+			},
+			{
+					"kana": "あつく します",
+					"kanji": "熱く します",
+					"romaji": "",
+					"english": "to make hot; to heat"
+			},
+			{
+					"kana": "きれいに します",
+					"kanji": "",
+					"romaji": "",
+					"english": "to make clean; to clean"
+			},
+			{
+					"kana": "まず",
+					"kanji": "",
+					"romaji": "",
+					"english": "First of all"
+			},
+			{
+					"kana": "はじめに",
+					"kanji": "始めに",
+					"romaji": "",
+					"english": "at the beginning"
+			},
+			{
+					"kana": "つぎに",
+					"kanji": "次に",
+					"romaji": "",
+					"english": "next [Adverb]"
+			},
+			{
+					"kana": "おわりに",
+					"kanji": "終わりに",
+					"romaji": "",
+					"english": "at the end"
+			},
+			{
+					"kana": "さとう",
+					"kanji": "",
+					"romaji": "",
+					"english": "sugar"
+			},
+			{
+					"kana": "しお",
+					"kanji": "",
+					"romaji": "",
+					"english": "salt"
+			},
+			{
+					"kana": "こしょう",
+					"kanji": "",
+					"romaji": "",
+					"english": "pepper"
+			},
+			{
+					"kana": "おす",
+					"kanji": "",
+					"romaji": "",
+					"english": "vinegar"
+			},
+			{
+					"kana": "あまい",
+					"kanji": "",
+					"romaji": "",
+					"english": "sweet"
+			},
+			{
+					"kana": "しおからい",
+					"kanji": "",
+					"romaji": "",
+					"english": "salty"
+			},
+			{
+					"kana": "からい",
+					"kanji": "",
+					"romaji": "",
+					"english": "spicy/hot"
+			},
+			{
+					"kana": "すっぱい",
+					"kanji": "",
+					"romaji": "",
+					"english": "sour"
+			},
+			{
+					"kana": "(お)さけ",
+					"kanji": "(お)酒",
+					"romaji": "",
+					"english": "rice wine; liquor in general"
+			},
+			{
+					"kana": "あじ",
+					"kanji": "味",
+					"romaji": "",
+					"english": "taste, flavor"
+			},
+			{
+					"kana": "しょうらい",
+					"kanji": "将来",
+					"romaji": "",
+					"english": "future"
+			},
+			{
+					"kana": "おとな",
+					"kanji": "大人",
+					"romaji": "",
+					"english": "adult"
+			},
+			{
+					"kana": "デザート",
+					"kanji": "",
+					"romaji": "",
+					"english": "dessert"
+			},
+			{
+					"kana": "なまたまご",
+					"kanji": "生卵",
+					"romaji": "",
+					"english": "raw egg"
+			},
+			{
+					"kana": "きもちが わろい",
+					"kanji": "気持ちが わろい",
+					"romaji": "",
+					"english": "unpleasant; uncomfortable"
+			},
+			{
+					"kana": "きもちが いい",
+					"kanji": "気持ちが いい",
+					"romaji": "",
+					"english": "pleasant, comfortable"
+			},
+			{
+					"kana": "〜が できました",
+					"kanji": "〜が 出来ました",
+					"romaji": "",
+					"english": "~ is ready, ~is done"
+			},
+			{
+					"kana": "(Object)を つける",
+					"kanji": "",
+					"romaji": "",
+					"english": "to dip (object) in (thing) [G2]"
+			},
+			{
+					"kana": "(Object)を かたづける",
+					"kanji": "(Object)を 片付ける",
+					"romaji": "",
+					"english": "to clean up, put away [G2]"
+			}
+	]
+}

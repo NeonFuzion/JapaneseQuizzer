@@ -1,0 +1,311 @@
+{
+	"unit": "Unit 1: Self-Introduction",
+	"vocab": [
+		{
+				"kana": "はじめまして",
+				"kanji": "",
+				"romaji": "hajimemashite",
+				"english": "How do you do?"
+		},
+		{
+				"kana": "わたし",
+				"kanji": "",
+				"romaji": "watashi",
+				"english": "I"
+		},
+		{
+				"kana": "ぼく",
+				"kanji": "",
+				"romaji": "boku",
+				"english": "I (male)"
+		},
+		{
+				"kana": "は",
+				"kanji": "",
+				"romaji": "wa",
+				"english": "marks topic of sentence"
+		},
+		{
+				"kana": "です",
+				"kanji": "",
+				"romaji": "desu",
+				"english": "are/is"
+		},
+		{
+				"kana": "どおぞ よろしく",
+				"kanji": "",
+				"romaji": "doozo yoroshiku",
+				"english": "Nice to meet you"
+		},
+		{
+				"kana": "おはよお",
+				"kanji": "",
+				"romaji": "ohayoo",
+				"english": "Good morning (informal)"
+		},
+		{
+				"kana": "おはよお ございます",
+				"kanji": "",
+				"romaji": "ohayoo gozaimasu",
+				"english": "Good morning (formal)"
+		},
+		{
+				"kana": "こんにちは",
+				"kanji": "",
+				"romaji": "konnichiwa",
+				"english": "Hi. Hello."
+		},
+		{
+				"kana": "さようなら",
+				"kanji": "",
+				"romaji": "sayoonara",
+				"english": "Goodbye"
+		},
+		{
+				"kana": "はい/ええ",
+				"kanji": "",
+				"romaji": "hai/ee",
+				"english": "Yes"
+		},
+		{
+				"kana": "はじめましょう",
+				"kanji": "",
+				"romaji": "hajimemashoo",
+				"english": "Let's begin"
+		},
+		{
+				"kana": "きりつ",
+				"kanji": "",
+				"romaji": "kiritsu",
+				"english": "stand"
+		},
+		{
+				"kana": "れい",
+				"kanji": "",
+				"romaji": "rei",
+				"english": "bow"
+		},
+		{
+				"kana": "ちゃくせき",
+				"kanji": "",
+				"romaji": "chakuseki",
+				"english": "sit"
+		},
+		{
+				"kana": "~は (お)やすみです",
+				"kanji": "~は 休みです",
+				"romaji": "~wa (o)yasumi desu",
+				"english": "~is absent"
+		},
+		{
+				"kana": "~は ちこくです",
+				"kanji": "",
+				"romaji": "~wa chikokudesu",
+				"english": "~is late (not time)"
+		},
+		{
+				"kana": "はやく",
+				"kanji": "",
+				"romaji": "hayaku",
+				"english": "hurry"
+		},
+		{
+				"kana": "おわりましょう",
+				"kanji": "",
+				"romaji": "owarimashoo",
+				"english": "Let's finish"
+		},
+		{
+				"kana": "これ",
+				"kanji": "",
+				"romaji": "kore",
+				"english": "This one"
+		},
+		{
+				"kana": "なん/なに",
+				"kanji": "",
+				"romaji": "nan/nani",
+				"english": "what?"
+		},
+		{
+				"kana": "か",
+				"kanji": "",
+				"romaji": "ka",
+				"english": "question mark"
+		},
+		{
+				"kana": "いち",
+				"kanji": "一",
+				"romaji": "ichi",
+				"english": "one"
+		},
+		{
+				"kana": "に",
+				"kanji": "二",
+				"romaji": "ni",
+				"english": "two"
+		},
+		{
+				"kana": "さん",
+				"kanji": "三",
+				"romaji": "san",
+				"english": "three"
+		},
+		{
+				"kana": "し/よん",
+				"kanji": "四",
+				"romaji": "shi/yon",
+				"english": "four"
+		},
+		{
+				"kana": "ご",
+				"kanji": "五",
+				"romaji": "go",
+				"english": "five"
+		},
+		{
+				"kana": "ろく",
+				"kanji": "六",
+				"romaji": "roku",
+				"english": "six"
+		},
+		{
+				"kana": "しち/なな",
+				"kanji": "七",
+				"romaji": "shichi/nana",
+				"english": "seven"
+		},
+		{
+				"kana": "はち",
+				"kanji": "八",
+				"romaji": "hachi",
+				"english": "eight"
+		},
+		{
+				"kana": "きゅう/く",
+				"kanji": "九",
+				"romaji": "ku/kyuu",
+				"english": "nine"
+		},
+		{
+				"kana": "じゅう",
+				"kanji": "十",
+				"romaji": "juu",
+				"english": "ten"
+		},
+		{
+				"kana": "すみません、もう いちどう おねがいします",
+				"kanji": "",
+				"romaji": "sumimasen moo ichidou onegaishimasu",
+				"english": "Please repeat that"
+		},
+		{
+				"kana": "すみません。ゆっくり おねがいします",
+				"kanji": "",
+				"romaji": "sumimasen. yukkuri onegaishimasu",
+				"english": "Excuse me. Slowly please"
+		},
+		{
+				"kana": "ちょっと まって ください",
+				"kanji": "",
+				"romaji": "chotto matte kudasai",
+				"english": "Please wait a minute"
+		},
+		{
+				"kana": "ありがとう ございます",
+				"kanji": "",
+				"romaji": "arigatoo gozaimasu",
+				"english": "Thank you very much"
+		},
+		{
+				"kana": "どう いたしまして",
+				"kanji": "",
+				"romaji": "doo itashimashite",
+				"english": "You are welcome"
+		},
+		{
+				"kana": "それ",
+				"kanji": "",
+				"romaji": "sore",
+				"english": "That one"
+		},
+		{
+				"kana": "あれ",
+				"kanji": "",
+				"romaji": "are",
+				"english": "That one over there"
+		},
+		{
+				"kana": "いいえ",
+				"kanji": "",
+				"romaji": "iie",
+				"english": "no"
+		},
+		{
+				"kana": "はい、そうです",
+				"kanji": "",
+				"romaji": "hai soo desu",
+				"english": "Yes it is"
+		},
+		{
+				"kana": "いいえ、そうじゃありません",
+				"kanji": "",
+				"romaji": "iie soo ja arimasen",
+				"english": "expression of disagreement"
+		},
+		{
+				"kana": "あついですねえ",
+				"kanji": "",
+				"romaji": "atsui desu nee",
+				"english": "It's hot!"
+		},
+		{
+				"kana": "さむいですねえ",
+				"kanji": "",
+				"romaji": "samui desu nee",
+				"english": "It's cold!"
+		},
+		{
+				"kana": "すずしいですねえ",
+				"kanji": "",
+				"romaji": "suzushi desu nee",
+				"english": "It's cool (temperature)"
+		},
+		{
+				"kana": "そうですねえ",
+				"kanji": "",
+				"romaji": "soo desu nee",
+				"english": "Yes it is"
+		},
+		{
+				"kana": "(お)げんきですか",
+				"kanji": "",
+				"romaji": "genkidesuka",
+				"english": "How are you?"
+		},
+		{
+				"kana": "はい、げんです",
+				"kanji": "",
+				"romaji": "hai genkidesu",
+				"english": "Yes I am fine"
+		},
+		{
+				"kana": "むしあついですね",
+				"kanji": "",
+				"romaji": "mushiatsui desu nee",
+				"english": "It's hot and humid!"
+		},
+		{
+				"kana": "いい てんきですねえ",
+				"kanji": "",
+				"romaji": "ii tenki desu nee",
+				"english": "The weather is pleasant"
+		},
+		{
+				"kana": "あめですねえ",
+				"kanji": "",
+				"romaji": "ame desu nee",
+				"english": "It's raining!(a lot)"
+		}
+	]
+}
